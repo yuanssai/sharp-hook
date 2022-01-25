@@ -1,0 +1,14 @@
+database:
+  user: sharp_hook
+  password: '123456'
+  host: xxxxx
+  database: sharp-hook
+  raise_on_warnings: True
+
+chromedriver: ../chromedriver.exe
+
+proxies:
+  http: http://127.0.0.1:10808
+  https: https://127.0.0.1:10808
+
+cache_path: ~/sharp-hook/cache/

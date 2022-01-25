@@ -1,0 +1,8 @@
+topics:
+  - topic: https://twitter.com/BitTorrent
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=31a6064d-af57-459d-98cc-8458276fed7e
+
+  - topic: https://twitter.com/Filecoin
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=31a6064d-af57-459d-98cc-8458276fed7e

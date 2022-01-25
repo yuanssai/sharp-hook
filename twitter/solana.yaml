@@ -1,0 +1,4 @@
+topics:
+  - topic: https://twitter.com/solana
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=d70110ec-9024-4514-81a2-2c54a43d0173

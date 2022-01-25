@@ -1,0 +1,10 @@
+topics:
+  - topic: https://twitter.com/CelerNetwork
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=1a1fe154-767a-4374-a3b1-46bbcc1515e1
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/loopringorg
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=1a1fe154-767a-4374-a3b1-46bbcc1515e1
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c

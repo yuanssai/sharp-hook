@@ -1,0 +1,20 @@
+topics:
+  - topic: https://twitter.com/dogecoin
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=0a3cdef9-f27a-4c91-825d-8757e83c2d37
+
+  - topic: https://twitter.com/shibtoken
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=0a3cdef9-f27a-4c91-825d-8757e83c2d37
+
+  - topic: https://twitter.com/Pig_Finance
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=0a3cdef9-f27a-4c91-825d-8757e83c2d37
+
+  - topic: https://twitter.com/FEGtoken
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=0a3cdef9-f27a-4c91-825d-8757e83c2d37
+
+  - topic: https://twitter.com/liontoken
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=0a3cdef9-f27a-4c91-825d-8757e83c2d37

@@ -1,0 +1,14 @@
+database:
+  user: root
+  password: '123456'
+  host: 127.0.0.1
+  database: sharp-hook
+  raise_on_warnings: True
+
+chromedriver: ../chromedriver
+
+proxies:
+  http: socks5://127.0.0.1:10808
+  https: socks5://127.0.0.1:10808
+
+cache_path: ~/sharp-hook/cache/

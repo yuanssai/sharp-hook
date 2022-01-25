@@ -1,0 +1,35 @@
+topics:
+  - topic: https://twitter.com/sushiswap
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=503f0514-38c8-4f9a-8d67-2a5808b9cf20
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/Uniswap
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=503f0514-38c8-4f9a-8d67-2a5808b9cf20
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/AaveAave
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=503f0514-38c8-4f9a-8d67-2a5808b9cf20
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/1inch
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=503f0514-38c8-4f9a-8d67-2a5808b9cf20
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/compoundfinance
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=503f0514-38c8-4f9a-8d67-2a5808b9cf20
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/0xPolygon
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=503f0514-38c8-4f9a-8d67-2a5808b9cf20
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/ProjectSerum
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=503f0514-38c8-4f9a-8d67-2a5808b9cf20
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c

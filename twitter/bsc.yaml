@@ -1,0 +1,24 @@
+topics:
+  - topic: https://twitter.com/binancechain
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=0268e688-d0e6-4be5-9f9c-23a14a76e4d5
+
+  - topic: https://twitter.com/pancakeswap
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=0268e688-d0e6-4be5-9f9c-23a14a76e4d5
+
+  - topic: https://twitter.com/bakery_swap
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=0268e688-d0e6-4be5-9f9c-23a14a76e4d5
+
+  - topic: https://twitter.com/PancakeBunnyFin
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=0268e688-d0e6-4be5-9f9c-23a14a76e4d5
+
+  - topic: https://twitter.com/news_of_bsc
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=0268e688-d0e6-4be5-9f9c-23a14a76e4d5
+
+  - topic: https://twitter.com/bsc_daily
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=0268e688-d0e6-4be5-9f9c-23a14a76e4d5

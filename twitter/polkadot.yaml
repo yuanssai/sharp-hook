@@ -1,0 +1,54 @@
+topics:
+  - topic: https://twitter.com/Polkadot
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=e4566042-8e9a-455b-970b-c396772bf8af
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=a8e2b3f0-c120-4b5c-a8a8-1a06f422c828
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/polkastarter
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=e4566042-8e9a-455b-970b-c396772bf8af
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=a8e2b3f0-c120-4b5c-a8a8-1a06f422c828
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/polkamarkets
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=e4566042-8e9a-455b-970b-c396772bf8af
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=a8e2b3f0-c120-4b5c-a8a8-1a06f422c828
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/polkaprojectcom
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=e4566042-8e9a-455b-970b-c396772bf8af
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=a8e2b3f0-c120-4b5c-a8a8-1a06f422c828
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/kusamanetwork
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=e4566042-8e9a-455b-970b-c396772bf8af
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/ReefDeFi
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=e4566042-8e9a-455b-970b-c396772bf8af
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/PhalaNetwork
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=e4566042-8e9a-455b-970b-c396772bf8af
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/AcalaNetwork
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=e4566042-8e9a-455b-970b-c396772bf8af
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/KaruraNetwork
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=e4566042-8e9a-455b-970b-c396772bf8af
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c
+
+  - topic: https://twitter.com/MetisDAO
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=e4566042-8e9a-455b-970b-c396772bf8af
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=2d0ff672-0190-4e78-9895-0505749df71c

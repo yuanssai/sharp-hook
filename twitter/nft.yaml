@@ -1,0 +1,48 @@
+topics:
+  - topic: https://twitter.com/illuviumio
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4ca7aee3-576f-4414-ac79-05548af2b564
+
+  - topic: https://twitter.com/chiliz
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4ca7aee3-576f-4414-ac79-05548af2b564
+
+  - topic: https://twitter.com/decentraland
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4ca7aee3-576f-4414-ac79-05548af2b564
+
+  - topic: https://twitter.com/enjin
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4ca7aee3-576f-4414-ac79-05548af2b564
+
+  - topic: https://twitter.com/Chromia
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4ca7aee3-576f-4414-ac79-05548af2b564
+
+  - topic: https://twitter.com/ethernitychain
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4ca7aee3-576f-4414-ac79-05548af2b564
+
+  - topic: https://twitter.com/dego_finance
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4ca7aee3-576f-4414-ac79-05548af2b564
+
+  - topic: https://twitter.com/AxieInfinity
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4ca7aee3-576f-4414-ac79-05548af2b564
+
+  - topic: https://twitter.com/MyNeighborAlice
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4ca7aee3-576f-4414-ac79-05548af2b564
+
+  - topic: https://twitter.com/thesandboxgame
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4ca7aee3-576f-4414-ac79-05548af2b564
+
+  - topic: https://twitter.com/GoGalaGames
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4ca7aee3-576f-4414-ac79-05548af2b564
+
+  - topic: https://twitter.com/decentraland
+    subscribers:
+      - https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4ca7aee3-576f-4414-ac79-05548af2b564
